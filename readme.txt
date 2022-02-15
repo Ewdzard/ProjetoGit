@@ -1,3 +1,0 @@
-O projeto Git irá permitir ao aluno ....		
-
-Adicionando mais uma alteração
